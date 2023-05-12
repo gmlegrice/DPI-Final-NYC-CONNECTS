@@ -103,7 +103,7 @@ font-size:20px;
 .banner{
     /* width:100%;
     height:auto; */
-    background-image:url(images/pexels-quintin-gellar-313782.jpg);
+    background-image:url("https://github.com/gmlegrice/DPI-Prac/blob/0e2375d946831b614140c60ed8aa8a1a64fe3f3f/DPIBanner-Opaque.jpg");
     background-size:cover;
     background-position:60%;
     border-radius:10px;
@@ -118,16 +118,16 @@ font-size:20px;
 .banner-text h2{
     letter-spacing: 10px;
     font-weight:bold;
-    font-size:25px;
-    color:white;
+    font-size:40px;
+    color:black;
     text-align:center;
-    font-family: fantasy;
+    font-family: Futura, sans-serif;
 }
 
 .banner-text h1{
     margin-left:5px;
     font-size:50px;
-    color:blue;
+    color:black;
     text-align: center;
     font-family: 'Playfair Display', serif;
 }
